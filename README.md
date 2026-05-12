@@ -4,7 +4,6 @@
 - Apasionado por la programación y la tecnología  
 📍 Costa Rica
 
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/Ciscojes/Ciscojes/main/banner.png" width="100%" />
 
