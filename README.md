@@ -4,7 +4,9 @@
 - Apasionado por la programación y la tecnología  
 📍 Costa Rica
 
-![Banner de Jesús](https://raw.githubusercontent.com/jesusgranados/jesusgranados/main/banner.png)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/main/banner.png" width="100%" />
 ---
 
 ## 👨‍💻 Sobre mí
