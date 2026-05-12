@@ -4,9 +4,7 @@
 - Apasionado por la programación y la tecnología  
 📍 Costa Rica
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Jesús%20Granados&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20en%20formación&descAlignY=60&descAlign=50" />
-
-</div>
+![Banner de Jesús](https://raw.githubusercontent.com/jesusgranados/jesusgranados/main/banner.png)
 ---
 
 ## 👨‍💻 Sobre mí
