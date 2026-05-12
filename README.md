@@ -6,7 +6,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/main/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/Ciscojes/Ciscojes/main/banner.png" width="100%" />
+
+
 ---
 
 ## 👨‍💻 Sobre mí
