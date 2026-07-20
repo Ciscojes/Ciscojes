@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Hola 👋, soy Jesús Granados</h1>
 
 <h2 align="center">Desarrollador Web Full Stack en formación</h2>
@@ -8,23 +7,13 @@
 <p align="center">
   Construyendo proyectos web, APIs y soluciones con IA mientras continúo mi formación en Conquer Blocks y BIG School.
 </p>
-=======
-# ¡Hola! 👋 Soy Jesús
-
-- Estudiante de Desarrollo Web
-- Apasionado por la programación y la tecnología  
-📍 Costa Rica
-
 
 <img src="https://raw.githubusercontent.com/Ciscojes/Ciscojes/main/banner.png" width="100%" />
 
->>>>>>> 0d08a9ab592f685fe6a6782fae1b8ec7cf793776
-
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-<<<<<<< HEAD
 Soy estudiante de desarrollo web y software con Inteligencia Artificial.
 
 Actualmente me estoy formando en:
@@ -38,7 +27,7 @@ Mi objetivo es construir aplicaciones útiles, mantenibles y bien estructuradas,
 
 ---
 
-## 🧭 Títulos profesionales
+## Perfil Profesional
 
 ### Desarrollador Web Full Stack en formación
 
@@ -50,7 +39,7 @@ Mi objetivo es construir aplicaciones útiles, mantenibles y bien estructuradas,
 
 ---
 
-## 🛠️ Habilidades técnicas
+## Habilidades técnicas
 
 ### Frontend
 
@@ -120,7 +109,7 @@ Mi objetivo es construir aplicaciones útiles, mantenibles y bien estructuradas,
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 ### JobRadar
 
@@ -175,7 +164,7 @@ Colección de prácticas y proyectos enfocados en:
 
 ---
 
-## 🎓 Formación
+## Formación
 
 ### Conquer Blocks
 
@@ -196,22 +185,22 @@ Máster de Desarrollo de Software con Inteligencia Artificial.
 
 ---
 
-## 🏆 Certificaciones
+## Certificaciones
 
-| Certificación | Institución | Ver certificado |
-|---|---|---|
-| Linux y la Terminal | Conquer Blocks | [Abrir PDF](./certificados/linux-y-terminal.pdf) |
-| Pseudocódigo | Conquer Blocks | [Abrir PDF](./certificados/pseudocodigo.pdf) |
-| Python | Conquer Blocks | [Abrir PDF](./certificados/python.pdf) |
-| Python avanzado | Conquer Blocks | [Abrir PDF](./certificados/python-avanzado.pdf) |
-| Git y GitHub | Conquer Blocks | [Abrir PDF](./certificados/git-y-github.pdf) |
-| HTML | Conquer Blocks | [Abrir PDF](./certificados/html.pdf) |
-| CSS Selectores | Conquer Blocks | [Abrir PDF](./certificados/css-selectores.pdf) |
+| Certificación                              | Institución    | Ver certificado                                                   |
+| ------------------------------------------ | -------------- | ----------------------------------------------------------------- |
+| Linux y la Terminal                        | Conquer Blocks | [Abrir PDF](./certificados/linux-y-terminal.pdf)                  |
+| Pseudocódigo                               | Conquer Blocks | [Abrir PDF](./certificados/pseudocodigo.pdf)                      |
+| Python                                     | Conquer Blocks | [Abrir PDF](./certificados/python.pdf)                            |
+| Python avanzado                            | Conquer Blocks | [Abrir PDF](./certificados/python-avanzado.pdf)                   |
+| Git y GitHub                               | Conquer Blocks | [Abrir PDF](./certificados/git-y-github.pdf)                      |
+| HTML                                       | Conquer Blocks | [Abrir PDF](./certificados/html.pdf)                              |
+| CSS Selectores                             | Conquer Blocks | [Abrir PDF](./certificados/css-selectores.pdf)                    |
 | Principios SOLID y acceso a Bases de datos | Conquer Blocks | [Abrir PDF](./certificados/principios-solid-y-bases-de-datos.pdf) |
 
 ---
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 - CSS avanzado
 - Responsive Design
@@ -226,7 +215,7 @@ Máster de Desarrollo de Software con Inteligencia Artificial.
 
 ---
 
-## 🎯 Objetivos
+## Objetivos Profesionales
 
 - Fortalecer mis conocimientos de frontend
 - Desarrollar aplicaciones completas con backend y bases de datos
@@ -237,16 +226,7 @@ Máster de Desarrollo de Software con Inteligencia Artificial.
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ciscojes&show_icons=true&locale=es" alt="Estadísticas de GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciscojes&layout=compact&locale=es" alt="Lenguajes más usados">
-</p>
-
----
-
-## 📫 Contacto
+## Contacto
 
 - GitHub: [Ciscojes](https://github.com/Ciscojes)
 - Ubicación: Costa Rica
@@ -256,17 +236,5 @@ Máster de Desarrollo de Software con Inteligencia Artificial.
 <p align="center">
   <strong>Cada proyecto es una oportunidad para aprender, mejorar y construir soluciones reales.</strong>
 </p>
-=======
+
 Actualmente estoy aprendiendo y trabajando con tecnologías de desarrollo web y programación, enfocándome en mejorar mis habilidades cada día.
-
-📚 Tecnologías y temas que estudio:
-
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Git y GitHub
-- Linux / Terminal
-- Programación Orientada a Objetos (POO)
-- C#
->>>>>>> 0d08a9ab592f685fe6a6782fae1b8ec7cf793776
