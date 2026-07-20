@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Hola 👋, soy Jesús Granados</h1>
 
 <h2 align="center">Desarrollador Web Full Stack en formación</h2>
@@ -7,11 +8,23 @@
 <p align="center">
   Construyendo proyectos web, APIs y soluciones con IA mientras continúo mi formación en Conquer Blocks y BIG School.
 </p>
+=======
+# ¡Hola! 👋 Soy Jesús
+
+- Estudiante de Desarrollo Web
+- Apasionado por la programación y la tecnología  
+📍 Costa Rica
+
+
+<img src="https://raw.githubusercontent.com/Ciscojes/Ciscojes/main/banner.png" width="100%" />
+
+>>>>>>> 0d08a9ab592f685fe6a6782fae1b8ec7cf793776
 
 ---
 
 ## 👨‍💻 Sobre mí
 
+<<<<<<< HEAD
 Soy estudiante de desarrollo web y software con Inteligencia Artificial.
 
 Actualmente me estoy formando en:
@@ -243,3 +256,17 @@ Máster de Desarrollo de Software con Inteligencia Artificial.
 <p align="center">
   <strong>Cada proyecto es una oportunidad para aprender, mejorar y construir soluciones reales.</strong>
 </p>
+=======
+Actualmente estoy aprendiendo y trabajando con tecnologías de desarrollo web y programación, enfocándome en mejorar mis habilidades cada día.
+
+📚 Tecnologías y temas que estudio:
+
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Git y GitHub
+- Linux / Terminal
+- Programación Orientada a Objetos (POO)
+- C#
+>>>>>>> 0d08a9ab592f685fe6a6782fae1b8ec7cf793776
