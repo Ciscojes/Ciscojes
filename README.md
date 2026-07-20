@@ -136,21 +136,6 @@ Proyecto educativo para analizar código CSS y ofrecer explicaciones mediante mo
 - APIs de IA
 - Backend con Node.js o Python
 
-### Segundo Cerebro BIG School
-
-Sistema de conocimiento personal para organizar el contenido del Máster de Desarrollo de Software con IA.
-
-**Contenido:**
-
-- Resúmenes 80/20
-- Cheatsheets
-- Glosarios
-- Buenas prácticas
-- Errores frecuentes
-- Preguntas de entrevista
-- Arquitectura de software
-- Análisis de requisitos
-
 ### Proyectos de HTML y CSS
 
 Colección de prácticas y proyectos enfocados en:
