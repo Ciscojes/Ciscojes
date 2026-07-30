@@ -1,225 +1,67 @@
-<h1 align="center">Hola 👋, soy Jesús Granados</h1>
-
-<h2 align="center">Desarrollador Web Full Stack en formación</h2>
-
-<h3 align="center">Estudiante de Desarrollo de Software con Inteligencia Artificial</h3>
+<h1 align="center">Hola, soy Jesús Francisco Granados Mora</h1>
 
 <p align="center">
-  Construyendo proyectos web, APIs y soluciones con IA mientras continúo mi formación en Conquer Blocks y BIG School.
+  <strong>Desarrollador Backend Python Junior · Técnico en Redes</strong><br>
+  San José, Costa Rica
 </p>
 
-<img src="https://raw.githubusercontent.com/Ciscojes/Ciscojes/main/banner.png" width="100%" />
+<p align="center">
+  <a href="https://ciscojes.github.io/">Portafolio</a> ·
+  <a href="https://www.linkedin.com/in/jesus-granados-ba9aab1b4/">LinkedIn</a> ·
+  <a href="https://github.com/Ciscojes?tab=repositories">Repositorios</a>
+</p>
 
----
+![Banner de Jesús Granados](./banner.png)
 
 ## Sobre mí
 
-Soy estudiante de desarrollo web y software con Inteligencia Artificial.
+Estoy en transición profesional hacia el desarrollo de software. Desde 2019
+trabajo como carpintero en AICON Edificadora, una trayectoria en la que he
+fortalecido la precisión, la planificación, la responsabilidad y la atención al
+detalle. Hoy aplico esas capacidades al desarrollo backend, las redes y la
+construcción de proyectos tecnológicos funcionales.
 
-Actualmente me estoy formando en:
-
-- 🎓 **Conquer Blocks**
-- 🎓 **BIG School**
-- 💻 Desarrollo Web Full Stack
-- 🤖 Desarrollo de Software con Inteligencia Artificial
-
-Mi objetivo es construir aplicaciones útiles, mantenibles y bien estructuradas, aplicando buenas prácticas de programación, control de versiones, bases de datos y arquitectura de software.
-
----
-
-## Perfil Profesional
-
-### Desarrollador Web Full Stack en formación
-
-### Estudiante de Desarrollo de Software con Inteligencia Artificial
-
-### Python Backend Developer en formación
-
-### Desarrollador de soluciones con IA en formación
-
----
-
-## Habilidades técnicas
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS y JavaScript">
-</p>
-
-- HTML5 semántico
-- CSS3
-- Selectores CSS
-- Flexbox
-- CSS Grid
-- Responsive Design
-- JavaScript en aprendizaje
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django" alt="Python, FastAPI y Django">
-</p>
-
-- Python
-- Python avanzado
-- Programación orientada a objetos
-- FastAPI
-- Django en aprendizaje
-- APIs REST
-- Principios SOLID
-- Manejo de errores y archivos
-
-### Bases de datos
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite" alt="PostgreSQL y SQLite">
-</p>
-
-- SQL
-- PostgreSQL
-- SQLite
-- Acceso a bases de datos
-- Modelado y persistencia de datos
-
-### Herramientas y entorno
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,figma" alt="Herramientas">
-</p>
-
-- Git
-- GitHub
-- Docker
-- Linux
-- Terminal y Bash
-- WSL
-- Visual Studio Code
-- Figma
-
-### Inteligencia Artificial
-
-- OpenAI API
-- Google AI Studio
-- Hugging Face
-- Prompt Engineering
-- Integración de modelos de IA en aplicaciones
-- LangChain en aprendizaje
-- Automatización y agentes de IA
-
----
+Busco oportunidades como desarrollador backend Python junior, con disponibilidad
+para trabajo remoto internacional y para posiciones remotas o híbridas en Costa
+Rica.
 
 ## Proyectos destacados
 
-### JobRadar
+### [JobRadar](https://github.com/Ciscojes/jobradar)
 
-Aplicación para buscar y gestionar ofertas de empleo.
+Plataforma SaaS multiusuario de alertas de empleo, desarrollada con FastAPI,
+PostgreSQL y SQLAlchemy. Mi aporte se concentró en:
 
-**Tecnologías:**
+- Dashboard en Streamlit.
+- Contenedorización con Docker.
+- Pruebas automatizadas con Pytest y flujo de CI con GitHub Actions.
+- Integración de notificaciones mediante Telegram.
 
-- Python
-- FastAPI
-- PostgreSQL
-- Docker
-- Streamlit
-- APIs externas
+### [Tutor HTML y CSS con Gemini](https://github.com/Ciscojes/tutor-css-gemini)
 
-### Tutor de CSS con IA
+Aplicación educativa construida con JavaScript, Node.js y Express. Consulta
+material propio de HTML y CSS, recupera fragmentos con SQLite FTS5 y utiliza
+Gemini para responder con fuentes. Incluye extracción de PDF, OCR, actividades
+de estudio, flashcards y seguimiento del progreso.
 
-Proyecto educativo para analizar código CSS y ofrecer explicaciones mediante modelos de Inteligencia Artificial.
+## Habilidades técnicas
 
-**Tecnologías:**
-
-- HTML
-- CSS
-- JavaScript
-- APIs de IA
-- Backend con Node.js o Python
-
-### Proyectos de HTML y CSS
-
-Colección de prácticas y proyectos enfocados en:
-
-- HTML semántico
-- Formularios
-- Flexbox
-- CSS Grid
-- Responsive Design
-- Landing pages
-
----
+- **Backend y datos:** Python, FastAPI, PostgreSQL, SQLAlchemy, Node.js y Express.
+- **Calidad y entrega:** Docker, Pytest, Git, GitHub Actions y Linux.
+- **Web:** JavaScript, HTML y Sass/CSS.
+- **Infraestructura:** redes Cisco, routing, switching y ciberseguridad.
+- **Inteligencia artificial:** Gemini, RAG, OCR, chatbots y agentes de IA.
 
 ## Formación
 
-### Conquer Blocks
-
-Formación práctica en programación, desarrollo web, control de versiones, bases de datos y herramientas de desarrollo.
-
-### BIG School
-
-Máster de Desarrollo de Software con Inteligencia Artificial.
-
-Áreas de estudio:
-
-- Ingeniería de requisitos
-- Arquitectura de software
-- Inteligencia Artificial aplicada
-- Automatización
-- Desarrollo de aplicaciones con IA
-- Agentes inteligentes
-
----
-
-## Certificaciones
-
-| Certificación                              | Institución    | Ver certificado                                                   |
-| ------------------------------------------ | -------------- | ----------------------------------------------------------------- |
-| Linux y la Terminal                        | Conquer Blocks | [Abrir PDF](./certificados/linux-y-terminal.pdf)                  |
-| Pseudocódigo                               | Conquer Blocks | [Abrir PDF](./certificados/pseudocodigo.pdf)                      |
-| Python                                     | Conquer Blocks | [Abrir PDF](./certificados/python.pdf)                            |
-| Python avanzado                            | Conquer Blocks | [Abrir PDF](./certificados/python-avanzado.pdf)                   |
-| Git y GitHub                               | Conquer Blocks | [Abrir PDF](./certificados/git-y-github.pdf)                      |
-| HTML                                       | Conquer Blocks | [Abrir PDF](./certificados/html.pdf)                              |
-| CSS Selectores                             | Conquer Blocks | [Abrir PDF](./certificados/css-selectores.pdf)                    |
-| Principios SOLID y acceso a Bases de datos | Conquer Blocks | [Abrir PDF](./certificados/principios-solid-y-bases-de-datos.pdf) |
-
----
-
-## Actualmente aprendiendo
-
-- CSS avanzado
-- Responsive Design
-- JavaScript
-- Django
-- PostgreSQL
-- Docker
-- Arquitectura de software
-- Inteligencia Artificial aplicada
-- Automatización
-- Agentes de IA
-
----
-
-## Objetivos Profesionales
-
-- Fortalecer mis conocimientos de frontend
-- Desarrollar aplicaciones completas con backend y bases de datos
-- Integrar Inteligencia Artificial en proyectos web
-- Mejorar la documentación de mis repositorios
-- Construir un portafolio profesional
-- Conseguir mi primera oportunidad como desarrollador
-
----
+- **BIG School:** Máster en Desarrollo de Software con Inteligencia Artificial
+  (en curso).
+- **Conquer Blocks:** Programa de Desarrollo Web Full Stack (en curso).
+- **Universidad Castro Carazo:** Técnico en Redes.
+- **INA:** Ejecutivo en Inglés para Servicios.
 
 ## Contacto
 
-- GitHub: [Ciscojes](https://github.com/Ciscojes)
-- Ubicación: Costa Rica
-
----
-
-<p align="center">
-  <strong>Cada proyecto es una oportunidad para aprender, mejorar y construir soluciones reales.</strong>
-</p>
-
-Actualmente estoy aprendiendo y trabajando con tecnologías de desarrollo web y programación, enfocándome en mejorar mis habilidades cada día.
+- [Portafolio profesional](https://ciscojes.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/jesus-granados-ba9aab1b4/)
+- [GitHub](https://github.com/Ciscojes)
