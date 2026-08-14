@@ -25,24 +25,26 @@ Busco oportunidades como desarrollador backend Python junior, con disponibilidad
 para trabajo remoto internacional y para posiciones remotas o híbridas en Costa
 Rica.
 
-## Proyectos destacados
+## Proyectos
 
-### [JobRadar](https://github.com/Ciscojes/jobradar)
+- **[Deciflujo](https://github.com/Ciscojes/deciflujo):** aplicación de control
+  financiero para pymes, con cuentas, presupuestos, reportes y un centro de
+  decisiones.
+- **[JobRadar](https://github.com/Ciscojes/jobradar):** plataforma multiusuario
+  de alertas de empleo desarrollada con FastAPI, PostgreSQL y Streamlit.
+- **[Tutor HTML y CSS con Gemini](https://github.com/Ciscojes/tutor-css-gemini):**
+  asistente educativo con RAG, OCR, SQLite FTS5 y respuestas fundamentadas en
+  material de estudio.
+- **[Atajo](https://github.com/Ciscojes/atajo):** página de inicio personal para
+  guardar, categorizar y sincronizar sitios favoritos.
+- **[Gathsession](https://github.com/Ciscojes/Gathsession):** landing page de una
+  comunidad para organizar reuniones, construida con Vite y Sass.
+- **[Spa & Beauty](https://github.com/Ciscojes/spa-beauty):** interfaz responsive
+  para un negocio de spa, reproducida desde un diseño de Figma.
+- **[Adam Keyes Portfolio](https://github.com/Ciscojes/adam-keyes-portfolio):**
+  portafolio frontend desarrollado con HTML semántico, Vite y Sass.
 
-Plataforma SaaS multiusuario de alertas de empleo, desarrollada con FastAPI,
-PostgreSQL y SQLAlchemy. Mi aporte se concentró en:
-
-- Dashboard en Streamlit.
-- Contenedorización con Docker.
-- Pruebas automatizadas con Pytest y flujo de CI con GitHub Actions.
-- Integración de notificaciones mediante Telegram.
-
-### [Tutor HTML y CSS con Gemini](https://github.com/Ciscojes/tutor-css-gemini)
-
-Aplicación educativa construida con JavaScript, Node.js y Express. Consulta
-material propio de HTML y CSS, recupera fragmentos con SQLite FTS5 y utiliza
-Gemini para responder con fuentes. Incluye extracción de PDF, OCR, actividades
-de estudio, flashcards y seguimiento del progreso.
+[Ver todos mis repositorios](https://github.com/Ciscojes?tab=repositories)
 
 ## Habilidades técnicas
 
