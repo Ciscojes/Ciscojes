@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Developer con IA · Python Backend & Full Stack · AI Agents & Automation · SDD · Docker · APIs</strong><br>
-  Desarrollo de software e integración de inteligencia artificial<br>
+  Desarrollo de software · Automatización · Integración de inteligencia artificial<br>
   San José, Costa Rica
 </p>
 
@@ -16,18 +16,28 @@
 
 ## Sobre mí
 
-Estoy en transición profesional hacia el desarrollo de software, con experiencia
-práctica en backend Python y formación activa en desarrollo Full Stack. Construyo
-aplicaciones web, APIs REST y automatizaciones, e integro inteligencia artificial
-cuando aporta valor al proyecto.
+Soy desarrollador de software en formación, enfocado en **Python Backend, desarrollo
+Full Stack e integración de inteligencia artificial**. Construyo aplicaciones web,
+APIs REST, automatizaciones y soluciones con IA, aplicando prácticas de arquitectura
+de software, testing y entrega continua.
 
-Desde 2019 trabajo como carpintero en AICON Edificadora. Esta trayectoria me ha
-permitido fortalecer la precisión, la planificación, la responsabilidad, el
-trabajo en equipo y la resolución práctica de problemas; capacidades que hoy
-aplico al software y las redes.
+Actualmente profundizo en **Spec-Driven Development (SDD), Agentic Engineering,
+agentes de IA, RAG, MCP y automatización de flujos**, con el objetivo de diseñar
+sistemas más mantenibles, verificables y preparados para trabajar con herramientas
+de desarrollo asistidas por IA.
 
-Busco oportunidades junior en desarrollo backend o Full Stack, con disponibilidad
-para trabajo remoto internacional y posiciones remotas o híbridas en Costa Rica.
+Trabajo con tecnologías como **Python, FastAPI, JavaScript, PostgreSQL, Docker,
+GitHub Actions y n8n**, y complemento mi perfil con formación técnica en redes,
+routing, switching y fundamentos de ciberseguridad.
+
+Desde 2019 trabajo como carpintero en AICON Edificadora. Esta experiencia ha
+fortalecido mi precisión, planificación, responsabilidad, trabajo en equipo y
+resolución práctica de problemas; habilidades que hoy traslado al desarrollo de
+software.
+
+Busco oportunidades de entrada en **Backend Python, Full Stack o desarrollo de
+software con IA**, con disponibilidad para trabajo remoto internacional y
+posiciones remotas o híbridas en Costa Rica.
 
 ## Proyectos destacados
 
@@ -58,14 +68,17 @@ para trabajo remoto internacional y posiciones remotas o híbridas en Costa Rica
 
 ## Habilidades técnicas
 
-- **Desarrollo Full Stack:** Python, JavaScript, FastAPI, Node.js, Express, HTML,
-  Sass/CSS y Vite.
-- **Datos y calidad:** PostgreSQL, SQLite, SQLAlchemy, migraciones, Pytest y
-  documentación técnica.
-- **Integración de IA:** Gemini, APIs de IA, prompt engineering, RAG, OCR, bases
-  de conocimiento, MCP, chatbots y agentes.
-- **Herramientas y entrega:** Git, GitHub, Linux, Docker, GitHub Actions y CI/CD.
-- **Infraestructura:** redes Cisco, routing, switching y ciberseguridad.
+- **Backend y APIs:** Python, FastAPI, APIs REST, SQLAlchemy y diseño de servicios.
+- **Frontend / Full Stack:** JavaScript, Node.js, Express, HTML, Sass/CSS y Vite.
+- **Datos:** PostgreSQL, SQLite, modelado de datos y migraciones.
+- **Calidad y arquitectura:** Pytest, testing automatizado, documentación técnica,
+  SDD, principios SOLID y diseño modular.
+- **IA aplicada:** APIs de IA, prompt engineering, RAG, OCR, bases de conocimiento,
+  MCP, chatbots, agentes de IA y Agentic Engineering.
+- **Automatización y entrega:** n8n, Git, GitHub, Linux, Docker, GitHub Actions y
+  CI/CD.
+- **Infraestructura:** redes Cisco, routing, switching y fundamentos de
+  ciberseguridad.
 
 ## Formación
 
