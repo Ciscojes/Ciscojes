@@ -18,8 +18,8 @@
 Desarrollo aplicaciones web, APIs y automatizaciones con Python, JavaScript y
 TypeScript, e integro inteligencia artificial en soluciones prácticas.
 
-Mis proyectos abarcan gestión inmobiliaria, búsqueda de empleo, gestión financiera
-y herramientas educativas con IA. Trabajo con bases de datos, pruebas automatizadas,
+Mis proyectos incluyen un catálogo inmobiliario con gestión comercial, una plataforma
+de búsqueda de empleo, gestión financiera y herramientas educativas con IA. Trabajo con bases de datos, pruebas automatizadas,
 Docker y documentación técnica, mientras continúo mi formación Full Stack.
 
 Soy Técnico en Redes y, desde 2019, trabajo como carpintero en AICON Edificadora.
@@ -98,7 +98,6 @@ y tarjetas de estudio con referencias a las páginas utilizadas.
 - **Calidad y entrega:** Pytest, pruebas unitarias y E2E, Git, GitHub,
   GitHub Actions, Docker y Linux.
 - **Redes:** redes Cisco, routing, switching y formación en ciberseguridad.
-
 - **En profundización:** MCP y automatización de flujos con n8n.
 
 ## Cómo trabajo
@@ -114,9 +113,9 @@ productos, como el tutor con Gemini.
 ## Formación
 
 - **BIG School:** Máster en Desarrollo de Software con Inteligencia Artificial
-  (junio–septiembre de 2026, en curso).
+  (en curso).
 - **Conquer Blocks:** Programa de Desarrollo Web Full Stack
-  (agosto de 2025–diciembre de 2026, en curso).
+  (en curso).
 - **Universidad Castro Carazo:** Técnico en Redes.
 - **Cisco Networking Academy:** formación CCNA y CCNP Enterprise.
 - **VTEK Academy:** Full Stack con Python, 192 horas.
