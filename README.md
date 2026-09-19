@@ -1,8 +1,7 @@
 <h1 align="center">Hola, soy Jesús Francisco Granados Mora</h1>
 
 <p align="center">
-  <strong>Software Developer con IA · Python Backend & Full Stack · AI Agents & Automation · SDD · Docker · APIs</strong><br>
-  Desarrollo de software · Automatización · Integración de inteligencia artificial<br>
+  <strong>Desarrollador de software | Python · Full Stack · Integración de IA y automatización</strong><br>
   San José, Costa Rica
 </p>
 
@@ -16,69 +15,101 @@
 
 ## Sobre mí
 
-Soy desarrollador de software en formación, enfocado en **Python Backend, desarrollo
-Full Stack e integración de inteligencia artificial**. Construyo aplicaciones web,
-APIs REST, automatizaciones y soluciones con IA, aplicando prácticas de arquitectura
-de software, testing y entrega continua.
+Desarrollo aplicaciones web, APIs y automatizaciones con Python, JavaScript y
+TypeScript, e integro inteligencia artificial en soluciones prácticas.
 
-Actualmente profundizo en **Spec-Driven Development (SDD), Agentic Engineering,
-agentes de IA, RAG, MCP y automatización de flujos**, con el objetivo de diseñar
-sistemas más mantenibles, verificables y preparados para trabajar con herramientas
-de desarrollo asistidas por IA.
+Mis proyectos abarcan gestión inmobiliaria, búsqueda de empleo, gestión financiera
+y herramientas educativas con IA. Trabajo con bases de datos, pruebas automatizadas,
+Docker y documentación técnica, mientras continúo mi formación Full Stack.
 
-Trabajo con tecnologías como **Python, FastAPI, JavaScript, PostgreSQL, Docker,
-GitHub Actions y n8n**, y complemento mi perfil con formación técnica en redes,
-routing, switching y fundamentos de ciberseguridad.
+Soy Técnico en Redes y, desde 2019, trabajo como carpintero en AICON Edificadora.
+Mi trayectoria en construcción ha fortalecido mi capacidad para planificar,
+resolver problemas y trabajar en equipo; habilidades que también aplico al software.
 
-Desde 2019 trabajo como carpintero en AICON Edificadora. Esta experiencia ha
-fortalecido mi precisión, planificación, responsabilidad, trabajo en equipo y
-resolución práctica de problemas; habilidades que hoy traslado al desarrollo de
-software.
-
-Busco oportunidades de entrada en **Backend Python, Full Stack o desarrollo de
-software con IA**, con disponibilidad para trabajo remoto internacional y
-posiciones remotas o híbridas en Costa Rica.
+Busco oportunidades junior en desarrollo backend o Full Stack, en modalidad
+remota o híbrida en Costa Rica y remota internacional.
 
 ## Proyectos destacados
 
-- **[JobRadar](https://github.com/Ciscojes/jobradar):** plataforma multiusuario
-  de búsqueda y seguimiento de empleo con FastAPI, PostgreSQL, pruebas
-  automatizadas y Docker.
-- **[Tutor HTML y CSS con Gemini](https://github.com/Ciscojes/tutor-css-gemini):**
-  asistente educativo con RAG, OCR, SQLite FTS5 y respuestas fundamentadas en
-  material de estudio.
+### [AICON Web](https://github.com/Ciscojes/aicon-web)
+
+Plataforma en desarrollo para AICON Edificadora: sitio público, catálogo
+inmobiliario, panel administrativo y CRM, con cotizaciones y gestión de visitas.
+
+- **Tecnologías:** Next.js, React, TypeScript y Supabase.
+- **Ingeniería:** roles y políticas de acceso a datos, migraciones, pruebas y
+  verificaciones en GitHub Actions.
+- **Desarrollo asistido por agentes:** especificaciones, planes, evidencia de
+  verificación y revisión humana. [Documentación del flujo](https://github.com/Ciscojes/aicon-web/blob/main/docs/agentic-engineering/architecture.md).
+- **Estado:** funcionalidades principales implementadas; integraciones externas
+  y preparación del lanzamiento en progreso. [Avance del proyecto](https://github.com/Ciscojes/aicon-web/blob/main/docs/STATUS.md).
+
+### [JobRadar](https://github.com/Ciscojes/jobradar)
+
+Plataforma colaborativa de búsqueda y seguimiento de empleo, con búsquedas
+automáticas, cuentas de usuario y notificaciones por Telegram.
+
+- **Tecnologías:** Next.js, FastAPI, PostgreSQL y Docker.
+- **Mi aportación:** frontend, experiencia del producto, notificaciones, pruebas
+  e ingeniería del proyecto.
+- **Enfoque:** integración de servicios, procesamiento en segundo plano y
+  pruebas automatizadas.
+
+### [Deciflujo](https://github.com/Ciscojes/deciflujo)
+
+MVP de gestión financiera para pequeñas empresas, con movimientos, cuentas,
+presupuestos, reportes y seguimiento de decisiones.
+
+- **Capacidades:** espacios multiempresa, roles, auditoría y cierres mensuales.
+- **Datos y calidad:** SQLite y PostgreSQL, migraciones, pruebas unitarias y E2E.
+- **Ingeniería:** requisitos verificables y separación de dominio, aplicación
+  e infraestructura.
+
+### [Tutor HTML y CSS con Gemini](https://github.com/Ciscojes/tutor-css-gemini)
+
+Herramienta educativa que consulta documentos y genera explicaciones, ejercicios
+y tarjetas de estudio con referencias a las páginas utilizadas.
+
+- **Tecnologías:** Node.js, Express, Gemini y SQLite FTS5.
+- **Integración de IA:** recuperación de información (RAG), OCR e indexación
+  incremental de documentos.
+- **Aprendizaje:** cuestionarios, seguimiento de actividad y repaso espaciado.
+
+### Diseño web y otros proyectos
+
 - **[GathSession](https://github.com/Ciscojes/Gathsession):** landing page
-  responsive para una plataforma de comunidades y encuentros, construida con
-  JavaScript, Vite y Sass. [Ver demo](https://ciscojes.github.io/Gathsession/).
+  responsive con JavaScript, Vite y Sass. [Ver demo](https://ciscojes.github.io/Gathsession/).
 - **[Beauty Spa](https://github.com/Ciscojes/spa-beauty):** landing page
-  responsive para un negocio de belleza, reproducida desde un diseño de Figma.
-  [Ver demo](https://ciscojes.github.io/spa-beauty/).
-
-### Otros proyectos
-
-- **[Deciflujo](https://github.com/Ciscojes/deciflujo):** aplicación de control
-  financiero para pymes, con cuentas, presupuestos, reportes y un centro de
-  decisiones.
+  responsive a partir de un diseño de Figma. [Ver demo](https://ciscojes.github.io/spa-beauty/).
 - **[Atajo](https://github.com/Ciscojes/atajo):** página de inicio personal para
   guardar, categorizar y sincronizar sitios favoritos.
 - **[Adam Keyes Portfolio](https://github.com/Ciscojes/adam-keyes-portfolio):**
-  portafolio frontend desarrollado con HTML semántico, Vite y Sass.
+  portafolio frontend con HTML semántico, Vite y Sass.
 
 [Ver todos mis repositorios](https://github.com/Ciscojes?tab=repositories)
 
 ## Habilidades técnicas
 
-- **Backend y APIs:** Python, FastAPI, APIs REST, SQLAlchemy y diseño de servicios.
-- **Frontend / Full Stack:** JavaScript, Node.js, Express, HTML, Sass/CSS y Vite.
-- **Datos:** PostgreSQL, SQLite, modelado de datos y migraciones.
-- **Calidad y arquitectura:** Pytest, testing automatizado, documentación técnica,
-  SDD, principios SOLID y diseño modular.
-- **IA aplicada:** APIs de IA, prompt engineering, RAG, OCR, bases de conocimiento,
-  MCP, chatbots, agentes de IA y Agentic Engineering.
-- **Automatización y entrega:** n8n, Git, GitHub, Linux, Docker, GitHub Actions y
-  CI/CD.
-- **Infraestructura:** redes Cisco, routing, switching y fundamentos de
-  ciberseguridad.
+- **Backend y APIs:** Python, FastAPI, Node.js y Express.
+- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, Sass/CSS y Vite.
+- **Datos:** PostgreSQL, SQLite, SQLAlchemy, Supabase y migraciones.
+- **IA en aplicaciones:** APIs de Gemini, RAG, OCR y bases de conocimiento;
+  aplicados en el tutor educativo.
+- **Calidad y entrega:** Pytest, pruebas unitarias y E2E, Git, GitHub,
+  GitHub Actions, Docker y Linux.
+- **Redes:** redes Cisco, routing, switching y formación en ciberseguridad.
+
+- **En profundización:** MCP y automatización de flujos con n8n.
+
+## Cómo trabajo
+
+Parto de requisitos y criterios de aceptación, documento decisiones técnicas
+y compruebo los cambios con pruebas y verificaciones automatizadas.
+
+En AICON aplico desarrollo guiado por especificaciones (SDD) y un flujo de trabajo
+asistido por agentes de IA, con planes, evidencia y revisión humana. Distingo
+este uso de IA para desarrollar software de la integración de IA dentro de
+productos, como el tutor con Gemini.
 
 ## Formación
 
