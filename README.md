@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Jesús Francisco Granados Mora</h1>
 
 <p align="center">
-  <strong>Backend Python Junior · Full Stack en formación · Técnico en Redes</strong><br>
+  <strong>Software Developer con IA · Python Backend & Full Stack · AI Agents & Automation · SDD · Docker · APIs</strong><br>
   Desarrollo de software e integración de inteligencia artificial<br>
   San José, Costa Rica
 </p>
