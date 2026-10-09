@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Jesús Francisco Granados Mora</h1>
 
 <p align="center">
-  <strong>Desarrollador de software | Python · Full Stack · Integración de IA y automatización</strong><br>
+  <strong>Desarrollador de software junior | Full Stack · Python | Cloud & DevOps en formación | IA aplicada</strong><br>
   San José, Costa Rica
 </p>
 
