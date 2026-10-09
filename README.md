@@ -15,16 +15,26 @@
 
 ## Sobre mí
 
-Desarrollo aplicaciones web, APIs y automatizaciones con Python, JavaScript y
-TypeScript, e integro inteligencia artificial en soluciones prácticas.
+Soy desarrollador de software junior y Técnico en Redes. Desarrollo aplicaciones
+web, APIs y automatizaciones con Python, JavaScript y TypeScript, e integro
+inteligencia artificial en soluciones prácticas.
 
-Mis proyectos incluyen un catálogo inmobiliario con gestión comercial, una plataforma
-de búsqueda de empleo, gestión financiera y herramientas educativas con IA. Trabajo con bases de datos, pruebas automatizadas,
-Docker y documentación técnica, mientras continúo mi formación Full Stack.
+He avanzado de proyectos de maquetación web a aplicaciones con autenticación,
+roles, bases de datos y procesos de negocio: gestión inmobiliaria y comercial,
+búsqueda de empleo, control financiero y herramientas educativas con IA.
+En estos proyectos trabajo con pruebas automatizadas, Docker, GitHub Actions
+y documentación técnica.
 
-Soy Técnico en Redes y, desde 2019, trabajo como carpintero en AICON Edificadora.
-Mi trayectoria en construcción ha fortalecido mi capacidad para planificar,
-resolver problemas y trabajar en equipo; habilidades que también aplico al software.
+Me encuentro en la fase final del Máster en Desarrollo de Software con
+Inteligencia Artificial de BIG School: estoy completando los últimos módulos
+y preparando la entrega del proyecto final. Continúo mi formación Full Stack
+en Conquer Blocks y amplío mis conocimientos de Cloud/AWS y DevOps en
+Commit Academy, conectando mi base en redes con el desarrollo y despliegue
+de aplicaciones.
+
+Desde 2019 trabajo como carpintero en AICON Edificadora. Mi trayectoria en
+construcción ha fortalecido mi capacidad para planificar, resolver problemas
+y trabajar en equipo; habilidades que también aplico al software.
 
 Busco oportunidades junior en desarrollo backend o Full Stack, en modalidad
 remota o híbrida en Costa Rica y remota internacional.
@@ -113,9 +123,12 @@ productos, como el tutor con Gemini.
 ## Formación
 
 - **BIG School:** Máster en Desarrollo de Software con Inteligencia Artificial
-  (en curso).
-- **Conquer Blocks:** Programa de Desarrollo Web Full Stack
-  (en curso).
+  — en fase final, completando los últimos módulos y preparando la entrega
+  del proyecto final.
+- **Conquer Blocks:** Programa de Desarrollo Web Full Stack — en curso.
+- **Commit Academy:** curso de Cloud / AWS — en curso, con enfoque en
+  infraestructura en la nube, despliegue de aplicaciones y prácticas de DevOps.
+- **Fundamentos de AWS:** curso completado con certificado.
 - **Universidad Castro Carazo:** Técnico en Redes.
 - **Cisco Networking Academy:** formación CCNA y CCNP Enterprise.
 - **VTEK Academy:** Full Stack con Python, 192 horas.
