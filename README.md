@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Jesús Francisco Granados Mora</h1>
 
 <p align="center">
-  <strong>Desarrollador de software junior | Full Stack · Python | Cloud & DevOps en formación | IA aplicada</strong><br>
+  <strong>Desarrollador de software junior | Python, TypeScript e IA aplicada</strong><br>
   San José, Costa Rica
 </p>
 
@@ -15,9 +15,7 @@
 
 ## Sobre mí
 
-Soy desarrollador de software junior y Técnico en Redes. Desarrollo aplicaciones
-web, APIs y automatizaciones con Python, JavaScript y TypeScript, e integro
-inteligencia artificial en soluciones prácticas.
+Desarrollo APIs con FastAPI y PostgreSQL, construyo interfaces con TypeScript e integro IA en aplicaciones web. Mi siguiente paso es desarrollar agentes que puedan trabajar con esas APIs.
 
 He avanzado de proyectos de maquetación web a aplicaciones con autenticación,
 roles, bases de datos y procesos de negocio: gestión inmobiliaria y comercial,
